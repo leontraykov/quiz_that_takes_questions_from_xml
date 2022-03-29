@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<questions>
+  <question seconds="15" points="100">                  
+    <text>Сколько байт в килобайте?</text>
+    <variants>
+      <variant>1000</variant>
+      <variant>1048</variant>
+      <variant right="true">1024</variant>
+      <variant>1012</variant>
+    </variants>
+  </question>
+  
+  <question seconds="15" points="200">
+    <text>Сколько дней в високосном году?</text>
+    <variants>
+      <variant>365</variant>
+      <variant>364</variant>
+      <variant right="true">366</variant>
+      <variant>360</variant>
+    </variants>
+  </question>
+  
+  <question seconds="15" points="300">
+    <text>В каком году полетел космос Гагарин?</text>
+    <variants>
+      <variant>1960</variant>
+      <variant>1971</variant>
+      <variant right="true">1961</variant>
+      <variant>1970</variant>
+    </variants>
+  </question>
+
+  <question seconds="15" points="400">
+    <text>Квадратный корень из 121</text>
+    <variants>
+      <variant>111</variant>
+      <variant>12</variant>
+      <variant right="true">11</variant>
+      <variant>21</variant>
+    </variants>
+  </question>
+
+  <question seconds="15" points="500">
+    <text>В каком году крестили Русь?</text>
+    <variants>
+      <variant>980</variant>
+      <variant>990</variant>
+      <variant right="true">988</variant>
+      <variant>1000</variant>
+    </variants>
+  </question>
+
+  <question seconds="15" points="600">
+    <text>2 + 2 * 2</text>
+    <variants>
+      <variant>4</variant>
+      <variant>5</variant>
+      <variant right="true">6</variant>
+      <variant>7</variant>
+    </variants>
+  </question>
+</questions>
